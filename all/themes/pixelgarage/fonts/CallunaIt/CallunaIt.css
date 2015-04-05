@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CallunaIt';
+    src: url('fonts/CallunaIt.eot');
+    src: url('fonts/CallunaIt.eot') format('embedded-opentype'),
+         url('fonts/CallunaIt.woff2') format('woff2'),
+         url('fonts/CallunaIt.woff') format('woff'),
+         url('fonts/CallunaIt.ttf') format('truetype'),
+         url('fonts/CallunaIt.svg#CallunaIt') format('svg');
+}

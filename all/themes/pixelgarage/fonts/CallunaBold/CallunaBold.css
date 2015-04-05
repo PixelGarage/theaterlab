@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CallunaBold';
+    src: url('fonts/CallunaBold.eot');
+    src: url('fonts/CallunaBold.eot') format('embedded-opentype'),
+         url('fonts/CallunaBold.woff2') format('woff2'),
+         url('fonts/CallunaBold.woff') format('woff'),
+         url('fonts/CallunaBold.ttf') format('truetype'),
+         url('fonts/CallunaBold.svg#CallunaBold') format('svg');
+}
