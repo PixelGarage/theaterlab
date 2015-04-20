@@ -8968,15 +8968,13 @@ body .footer {
 }
 .pe-container .pe-item.pe-item-0 a .views-field-field-icon {
   display: inline-block;
-}
-.pe-container .pe-item.pe-item-0 a .views-field-field-icon:before {
-  content: 'diamond';
-  font-family: 'SSSteedicons';
-  font-size: 30px;
+  width: 30px;
+  height: 30px;
 }
 @media screen and (min-width: 768px) {
-  .pe-container .pe-item.pe-item-0 a .views-field-field-icon:before {
-    font-size: 50px;
+  .pe-container .pe-item.pe-item-0 a .views-field-field-icon {
+    width: 50px;
+    height: 50px;
   }
 }
 .pe-container .pe-item.pe-item-0 a .views-field-title {
@@ -9023,15 +9021,13 @@ body .footer {
 }
 .pe-container .pe-item.pe-item-1 a .views-field-field-icon {
   display: inline-block;
-}
-.pe-container .pe-item.pe-item-1 a .views-field-field-icon:before {
-  content: 'mustache';
-  font-family: 'SSSteedicons';
-  font-size: 30px;
+  width: 30px;
+  height: 30px;
 }
 @media screen and (min-width: 768px) {
-  .pe-container .pe-item.pe-item-1 a .views-field-field-icon:before {
-    font-size: 50px;
+  .pe-container .pe-item.pe-item-1 a .views-field-field-icon {
+    width: 50px;
+    height: 50px;
   }
 }
 .pe-container .pe-item.pe-item-1 a .views-field-title {
@@ -9078,15 +9074,13 @@ body .footer {
 }
 .pe-container .pe-item.pe-item-2 a .views-field-field-icon {
   display: inline-block;
-}
-.pe-container .pe-item.pe-item-2 a .views-field-field-icon:before {
-  content: 'phone';
-  font-family: 'SSSteedicons';
-  font-size: 30px;
+  width: 30px;
+  height: 30px;
 }
 @media screen and (min-width: 768px) {
-  .pe-container .pe-item.pe-item-2 a .views-field-field-icon:before {
-    font-size: 50px;
+  .pe-container .pe-item.pe-item-2 a .views-field-field-icon {
+    width: 50px;
+    height: 50px;
   }
 }
 .pe-container .pe-item.pe-item-2 a .views-field-title {
@@ -9133,15 +9127,13 @@ body .footer {
 }
 .pe-container .pe-item.pe-item-3 a .views-field-field-icon {
   display: inline-block;
-}
-.pe-container .pe-item.pe-item-3 a .views-field-field-icon:before {
-  content: 'dear';
-  font-family: 'SSSteedicons';
-  font-size: 30px;
+  width: 30px;
+  height: 30px;
 }
 @media screen and (min-width: 768px) {
-  .pe-container .pe-item.pe-item-3 a .views-field-field-icon:before {
-    font-size: 50px;
+  .pe-container .pe-item.pe-item-3 a .views-field-field-icon {
+    width: 50px;
+    height: 50px;
   }
 }
 .pe-container .pe-item.pe-item-3 a .views-field-title {
@@ -9188,15 +9180,13 @@ body .footer {
 }
 .pe-container .pe-item.pe-item-4 a .views-field-field-icon {
   display: inline-block;
-}
-.pe-container .pe-item.pe-item-4 a .views-field-field-icon:before {
-  content: 'bread';
-  font-family: 'SSSteedicons';
-  font-size: 30px;
+  width: 30px;
+  height: 30px;
 }
 @media screen and (min-width: 768px) {
-  .pe-container .pe-item.pe-item-4 a .views-field-field-icon:before {
-    font-size: 50px;
+  .pe-container .pe-item.pe-item-4 a .views-field-field-icon {
+    width: 50px;
+    height: 50px;
   }
 }
 .pe-container .pe-item.pe-item-4 a .views-field-title {
@@ -9243,15 +9233,13 @@ body .footer {
 }
 .pe-container .pe-item.pe-item-5 a .views-field-field-icon {
   display: inline-block;
-}
-.pe-container .pe-item.pe-item-5 a .views-field-field-icon:before {
-  content: 'lightning';
-  font-family: 'SSSteedicons';
-  font-size: 30px;
+  width: 30px;
+  height: 30px;
 }
 @media screen and (min-width: 768px) {
-  .pe-container .pe-item.pe-item-5 a .views-field-field-icon:before {
-    font-size: 50px;
+  .pe-container .pe-item.pe-item-5 a .views-field-field-icon {
+    width: 50px;
+    height: 50px;
   }
 }
 .pe-container .pe-item.pe-item-5 a .views-field-title {
@@ -9298,15 +9286,13 @@ body .footer {
 }
 .pe-container .pe-item.pe-item-6 a .views-field-field-icon {
   display: inline-block;
-}
-.pe-container .pe-item.pe-item-6 a .views-field-field-icon:before {
-  content: 'rollerskate';
-  font-family: 'SSSteedicons';
-  font-size: 30px;
+  width: 30px;
+  height: 30px;
 }
 @media screen and (min-width: 768px) {
-  .pe-container .pe-item.pe-item-6 a .views-field-field-icon:before {
-    font-size: 50px;
+  .pe-container .pe-item.pe-item-6 a .views-field-field-icon {
+    width: 50px;
+    height: 50px;
   }
 }
 .pe-container .pe-item.pe-item-6 a .views-field-title {

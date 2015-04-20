@@ -262,7 +262,7 @@
 //
 // specific proximity item
 //
-.specific-pe-item(@color; @icon: 'star') {
+.specific-pe-item(@color) {
   /* specific proximity event item */
   text-align: center;
 
@@ -286,15 +286,12 @@
 
     .views-field-field-icon {
       display: inline-block;
+      width: 30px;
+      height: 30px;
 
-      &:before {
-        content: @icon;
-        font-family: @pxl-icon-font;
-        font-size: 30px;
-
-        @media @tablet {
-          font-size: 50px;
-        }
+      @media @tablet {
+        width: 50px;
+        height: 50px;
       }
     }
 
@@ -495,37 +492,37 @@
     // specific pe-items
     &.pe-item-0 {
       /* Anlässe */
-      .specific-pe-item(@pe-color-event; 'diamond');
+      .specific-pe-item(@pe-color-event);
     }
 
     &.pe-item-1 {
       /* Projekte */
-      .specific-pe-item(@pe-color-projects; 'mustache');
+      .specific-pe-item(@pe-color-projects);
     }
 
     &.pe-item-2 {
       /* Kontakt */
-      .specific-pe-item(@pe-color-contact; 'phone');
+      .specific-pe-item(@pe-color-contact);
     }
 
     &.pe-item-3 {
       /* Über uns */
-      .specific-pe-item(@pe-color-about-us; 'dear');
+      .specific-pe-item(@pe-color-about-us);
     }
 
     &.pe-item-4 {
       /* Gallery */
-      .specific-pe-item(@pe-color-gallery; 'bread');
+      .specific-pe-item(@pe-color-gallery);
     }
 
     &.pe-item-5 {
       /* Temp 1 */
-      .specific-pe-item(@pe-color-temp1; 'lightning');
+      .specific-pe-item(@pe-color-temp1);
     }
 
     &.pe-item-6 {
       /* Temp 2 */
-      .specific-pe-item(@pe-color-temp2; 'rollerskate');
+      .specific-pe-item(@pe-color-temp2);
     }
 
   }
