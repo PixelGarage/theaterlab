@@ -9413,7 +9413,9 @@ body .footer {
 .pe-container #pe-modal-0 .modal-dialog .modal-content .modal-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-0 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view ul.quicktabs-tabs {
   list-style: none;
@@ -9504,7 +9506,9 @@ body .footer {
 .pe-container #pe-modal-0 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-0 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-field-images .field-item {
   display: inline-block;
@@ -9627,7 +9631,9 @@ body .footer {
 .pe-container #pe-modal-0 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-0 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-field-fussnote {
   margin: 15px 0 0;
@@ -9759,7 +9765,9 @@ body .footer {
 .pe-container #pe-modal-1 .modal-dialog .modal-content .modal-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-1 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view ul.quicktabs-tabs {
   list-style: none;
@@ -9850,7 +9858,9 @@ body .footer {
 .pe-container #pe-modal-1 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-1 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-field-images .field-item {
   display: inline-block;
@@ -9973,7 +9983,9 @@ body .footer {
 .pe-container #pe-modal-1 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-1 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-field-fussnote {
   margin: 15px 0 0;
@@ -10105,7 +10117,9 @@ body .footer {
 .pe-container #pe-modal-2 .modal-dialog .modal-content .modal-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-2 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view ul.quicktabs-tabs {
   list-style: none;
@@ -10196,7 +10210,9 @@ body .footer {
 .pe-container #pe-modal-2 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-2 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-field-images .field-item {
   display: inline-block;
@@ -10319,7 +10335,9 @@ body .footer {
 .pe-container #pe-modal-2 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-2 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-field-fussnote {
   margin: 15px 0 0;
@@ -10454,7 +10472,9 @@ body .footer {
 .pe-container #pe-modal-3 .modal-dialog .modal-content .modal-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-3 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view ul.quicktabs-tabs {
   list-style: none;
@@ -10545,7 +10565,9 @@ body .footer {
 .pe-container #pe-modal-3 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-3 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-field-images .field-item {
   display: inline-block;
@@ -10668,7 +10690,9 @@ body .footer {
 .pe-container #pe-modal-3 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-3 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-field-fussnote {
   margin: 15px 0 0;
@@ -10800,7 +10824,9 @@ body .footer {
 .pe-container #pe-modal-4 .modal-dialog .modal-content .modal-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-4 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view ul.quicktabs-tabs {
   list-style: none;
@@ -10891,7 +10917,9 @@ body .footer {
 .pe-container #pe-modal-4 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-4 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-field-images .field-item {
   display: inline-block;
@@ -11014,7 +11042,9 @@ body .footer {
 .pe-container #pe-modal-4 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-4 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-field-fussnote {
   margin: 15px 0 0;
@@ -11146,7 +11176,9 @@ body .footer {
 .pe-container #pe-modal-5 .modal-dialog .modal-content .modal-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-5 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view ul.quicktabs-tabs {
   list-style: none;
@@ -11237,7 +11269,9 @@ body .footer {
 .pe-container #pe-modal-5 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-5 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-field-images .field-item {
   display: inline-block;
@@ -11360,7 +11394,9 @@ body .footer {
 .pe-container #pe-modal-5 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-5 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-field-fussnote {
   margin: 15px 0 0;
@@ -11492,7 +11528,9 @@ body .footer {
 .pe-container #pe-modal-6 .modal-dialog .modal-content .modal-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-6 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view ul.quicktabs-tabs {
   list-style: none;
@@ -11583,7 +11621,9 @@ body .footer {
 .pe-container #pe-modal-6 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-6 .modal-dialog .modal-content .modal-body .field-name-gallery-view-block .view-project-view .quicktabs_main .quicktabs-tabpage .node-labproject .field-name-field-images .field-item {
   display: inline-block;
@@ -11706,7 +11746,9 @@ body .footer {
 .pe-container #pe-modal-6 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-body iframe {
   display: block;
   max-width: 100%;
+  width: 80%;
   height: auto;
+  min-height: 350px;
 }
 .pe-container #pe-modal-6 .modal-dialog .modal-content .modal-body .field-name-project-view-block .panel-group .panel .panel-collapse .panel-body .field-name-field-fussnote {
   margin: 15px 0 0;
